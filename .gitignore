@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data
+Member1_Data_Collection/data/*.csv
+**/.cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
